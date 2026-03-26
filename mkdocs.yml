@@ -1,0 +1,21 @@
+site_name: Mon Site
+site_url: https://Bjonat.github.io/mkdocs.git  
+repo_url: https://github.com/Bjonat/mkdocs.git
+repo_name: Bjonat/mkdocs
+
+theme:
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.top
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Accueil: index.md
