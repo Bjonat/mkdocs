@@ -19,3 +19,6 @@ plugins:
 
 nav:
   - Accueil: index.md
+  - Types de levures: types.md
+  - Fermentation: fermentation.md
+  - Utilisation & Conseils: utilisation.md
